@@ -45,7 +45,7 @@ gem 'spring',        group: :development
 gem 'devise', '3.4.1'
 
 # Use Stripe for paiement by card
-gem 'stripe', '1.27.0'
+gem 'stripe', '1.16.1'
 # Use figaro to hide secret keys
 gem 'figaro', '1.1.1'
 
